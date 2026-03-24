@@ -1,0 +1,41 @@
+# --- GUI & Plotting ---
+PyQt5>=5.15.9
+pyqtgraph>=0.13.3
+
+# --- Math & Core Vision ---
+numpy>=1.24.3
+opencv-python>=4.8.0.76
+
+# --- AI & Machine Learning ---
+torch>=2.0.1
+ultralytics>=8.0.145
+mediapipe>=0.10.3
+
+# --- Voice & Audio ---
+vosk>=0.3.45
+PyAudio>=0.2.13
+
+This step ensures your Mac has the necessary C++ audio drivers and installs all the Python libraries required for AI vision, neural networks, and the UI.
+
+Open your Mac Terminal.
+
+Run this to install the audio driver: brew install portaudio
+
+Activate your virtual environment: source venv311/bin/activate
+
+Run_this_to_install_the_Python_libraries: pip install PyQt5 pyqtgraph numpy opencv-python torch ultralytics mediapipe vosk PyAudio
+
+This is the code for your requirements.txt file (save this in your project folder for future use):
+PyQt5>=5.15.9
+pyqtgraph>=0.13.3
+numpy>=1.24.3
+opencv-python>=4.8.0.76
+torch>=2.0.1
+ultralytics>=8.0.145
+mediapipe>=0.10.3
+vosk>=0.3.45
+PyAudio>=0.2.13
+
+pip install PyQt5 pyqtgraph numpy opencv-python torch ultralytics mediapipe vosk PyAudio
+
+pip install -r requirements.txt

@@ -1,0 +1,69 @@
+Date,Time,Participant Name,Active Modality,Action / Command
+2026-03-24,14:14:07,gv,Keyboard Controls,System Initialized & Session Started
+2026-03-24,14:14:07,gv,System,Switched Modality to Keyboard Controls
+2026-03-24,14:14:12,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:14:14,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:15,gv,Keyboard Controls,Action: RIGHT | Input: Keystroke
+2026-03-24,14:14:16,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:16,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:16,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:17,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:18,gv,Keyboard Controls,Action: BACKWARD | Input: Keystroke
+2026-03-24,14:14:19,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:20,gv,Keyboard Controls,Action: RIGHT | Input: Keystroke
+2026-03-24,14:14:20,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:21,gv,Keyboard Controls,Action: RIGHT | Input: Keystroke
+2026-03-24,14:14:21,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:22,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:23,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:23,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:24,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:24,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:25,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:25,gv,Keyboard Controls,Action: BACKWARD | Input: Keystroke
+2026-03-24,14:14:26,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:27,gv,Keyboard Controls,Action: RIGHT | Input: Keystroke
+2026-03-24,14:14:27,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:28,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:28,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:28,gv,Keyboard Controls,Action: RIGHT | Input: Keystroke
+2026-03-24,14:14:29,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:29,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:29,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:30,gv,Keyboard Controls,Action: RIGHT | Input: Keystroke
+2026-03-24,14:14:30,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:30,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:14:32,gv,Keyboard Controls,Action: LEFT | Input: Keystroke
+2026-03-24,14:14:33,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:33,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:33,gv,Keyboard Controls,Action: BACKWARD | Input: Keystroke
+2026-03-24,14:14:34,gv,Keyboard Controls,Action: LEFT | Input: Keystroke
+2026-03-24,14:14:34,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:35,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:35,gv,Keyboard Controls,Action: BACKWARD | Input: Keystroke
+2026-03-24,14:14:35,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:35,gv,Keyboard Controls,Action: BACKWARD | Input: Keystroke
+2026-03-24,14:14:36,gv,Keyboard Controls,Action: LEFT | Input: Keystroke
+2026-03-24,14:14:37,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:37,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:37,gv,Keyboard Controls,Action: BACKWARD | Input: Keystroke
+2026-03-24,14:14:37,gv,Keyboard Controls,Action: LEFT | Input: Keystroke
+2026-03-24,14:14:38,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:38,gv,Keyboard Controls,Action: LEFT | Input: Keystroke
+2026-03-24,14:14:38,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:39,gv,Keyboard Controls,Action: LEFT | Input: Keystroke
+2026-03-24,14:14:39,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:14:39,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:24:45,gv,Keyboard Controls,Action: FORWARD | Input: Keystroke
+2026-03-24,14:24:46,gv,Keyboard Controls,Action: STOP | Input: Key Released
+2026-03-24,14:24:55,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:02,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:11,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:15,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:20,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:25,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:28,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:35,gv,Keyboard Controls,System: Switched Environment to Upload Custom Floorplan
+2026-03-24,14:25:50,gv,System,Switched Modality to Cursor Tracking
+2026-03-24,14:51:12,gv,System,Switched Modality to Custom Map Gaze
+2026-03-24,14:51:39,gv,System,Switched Modality to Voice Commands
